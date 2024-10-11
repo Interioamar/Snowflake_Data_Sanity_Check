@@ -1,2 +1,4 @@
-snowflake-connector-python==2.7.8
-snowflake-snowpark-python==0.7.0
+snowflake-connector-python
+pandas
+streamlit
+snowflake-snowpark-python
